@@ -16,7 +16,7 @@ namespace ConsoleApp2
 
 
             //var query = from x in Enumerable.Range(0, 100).Select(x => x * x);
-
+            //TEST
 
         }
 
